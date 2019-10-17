@@ -12,3 +12,4 @@ Fixed Navigation bugs.
 UI Changes
 
 Feel free to contribute.
+Could I change the code to turn it into a localized social networking,tracking and ordering app.
